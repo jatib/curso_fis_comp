@@ -1,4 +1,4 @@
 # Curso Física Computacional
 
-Curso 2017-1 :frog:
+Curso 2017-1 :smile:
 
