@@ -1,1 +1,4 @@
-# curso_fis_comp
+# Curso Física Computacional
+
+Curso 2017-1 :frog:
+
